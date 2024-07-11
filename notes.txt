@@ -1,0 +1,9 @@
+
+* Created this to help study for the OSED exam
+    - https://github.com/johnnyodonnell/notes-on-osed-lab-machines
+    - https://github.com/johnnyodonnell/notes-on-osed-pdf
+
+* Other resources
+    - Project Euler in Assembly:
+        https://github.com/johnnyodonnell/project-euler-in-assembly
+

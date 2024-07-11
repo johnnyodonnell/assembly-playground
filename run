@@ -1,0 +1,13 @@
+#!/bin/bash
+
+
+FILE=$1
+
+nasm -f elf32 $FILE
+
+gcc -m32 -z noexecstack -no-pie "$FILE.o"
+
+./a.out
+
+rm "$FILE.o"
+
